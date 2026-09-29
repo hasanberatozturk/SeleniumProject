@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="django" name="Django">
+      <configuration>
+        <option name="rootFolder" value="$MODULE_DIR$/Django/django_learning_project" />
+        <option name="settingsModule" value="django_learning_project/settings.py" />
+        <option name="manageScript" value="$MODULE_DIR$/Django/django_learning_project/manage.py" />
+        <option name="environment" value="&lt;map/&gt;" />
+        <option name="doNotUseTestRunner" value="false" />
+        <option name="trackFilePattern" value="migrations" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Django/django_learning_project" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/BackgroundRemove/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Debugging/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Django/TweetApp/tweetapp/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Django/django_learning_project/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/InteraktifDrawingProject/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Matplotlib/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/NumPy/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/PDFConvert/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/QRCodeCreator/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/SubdomainFinder/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/TKinterProject/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/WebsiteCrawler/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/YoutubeDownloader/.venv" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.14 (Python) (3)" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_CONFIGURATION" value="Django" />
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/Django/django_templates_project/templates" />
+      </list>
+    </option>
+  </component>
+</module>
